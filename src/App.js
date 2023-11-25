@@ -5,7 +5,7 @@ import CreateUserForm from './Components/CreateUserForm.js';
 function App() {
   return (
     <div>
-      <h1>User Creation Form</h1>
+      <h1>Joi Creation Form</h1>
       <CreateUserForm />
     </div>
   );
